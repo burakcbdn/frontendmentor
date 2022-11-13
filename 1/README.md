@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Solution](https://github.com/burakcbdn/frontendmentor-product-preview-card)
--   Live Site URL: [Live Site](https://burakcbdn.me/frontendmentor/challenge/1)
+-   Live Site URL: [Live Site](https://frontendmentor-peach.vercel.app/1/)
 
 ## My process
 
